@@ -1,0 +1,11 @@
+# Directoies
+.vs
+Binaries/
+Build
+DerivedDataCache
+Intermediate
+Saved
+
+# Files
+*.VC.db
+KeyLime.sln
